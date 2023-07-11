@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/Icon/craft_pic/screw_little.png</file>
+        <file>Res/Icon/menu/dashboard.png</file>
+        <file>Res/Icon/menu/detail.png</file>
+        <file>Res/Icon/menu/detail-fill.png</file>
+        <file>Res/Icon/menu/down-square.png</file>
+        <file>Res/Icon/menu/down-square-fill.png</file>
+        <file>Res/Icon/menu/Field-number.png</file>
+        <file>Res/Icon/menu/left-square.png</file>
+        <file>Res/Icon/menu/left-square-fill.png</file>
+        <file>Res/Icon/menu/right-square.png</file>
+        <file>Res/Icon/menu/right-square-fill.png</file>
+        <file>Res/Icon/menu/dashboard-fill.png</file>
+        <file>Res/Icon/menu/download.png</file>
+        <file>Res/Icon/menu/upload.png</file>
+        <file>Res/Icon/menu/question-circle.png</file>
+        <file>Res/Icon/menu/info-circle.png</file>
+        <file>Res/Icon/menu/date.png</file>
+        <file>Res/Icon/menu/date-fill.png</file>
+        <file>Res/Icon/menu/screw-NG.png</file>
+        <file>Res/Icon/menu/screw-OK.png</file>
+    </qresource>
+</RCC>
